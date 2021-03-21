@@ -2,4 +2,4 @@
 This repository contains the code to predict stock pricing 
 
 
-<img src="output.png/>
+![](https://github.com/TalhaSheikh-dev/Google_stock_price/blob/main/output.png)
